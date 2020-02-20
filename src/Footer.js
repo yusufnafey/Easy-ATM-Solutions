@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Footer() {
+export default function Footer() {
   return (
     <div className="Footer">
       <header className="App-header">
@@ -11,5 +11,3 @@ function Footer() {
     </div>
   );
 }
-
-export default Footer;
